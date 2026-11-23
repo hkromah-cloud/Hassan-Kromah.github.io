@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Hassan Kromah
-description: "Hi I'm Hassan, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Hassan, and I'm a Data Analyst.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: /Hassan-Kromah.github.io
 url: https://hkromah-cloud.github.io
 
