@@ -17,7 +17,7 @@ url: https://hkromah-cloud.github.io
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: United States, Minnesota
-resume_url: /docs/resume.docx
+resume_url: Hassan-Kromah-resume.pdf
 avatar_image: /img/HHK.jpg
 
 #-------------------------------
@@ -51,4 +51,5 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
